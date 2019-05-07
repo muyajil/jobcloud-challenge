@@ -3,6 +3,7 @@
 ## Prepare data
 
 - To prepare the data run the Juptyer Notebook from top to bottom, it will generate the files needed for the application
+- Make sure the file `jobcloud_published_job_titles.csv` is available
 - Verify that the notebook generated the file `jobname_app/labels_by_input.json`
 
 ## Run application
