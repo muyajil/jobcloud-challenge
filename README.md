@@ -29,4 +29,5 @@
   - Use pretrained word embeddings (might be difficult to find, but can be trained on wikipedia for example)
   - Add more text, maybe the job descriptions, to get more context for the job titles, which allows to train more complex models
   - Add external data
+  - Better quality measurement for recommendations (such that we filter out words that are typos etc.)
   - ...
