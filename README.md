@@ -14,7 +14,7 @@
   3. `docker run --rm -p 5000:5000 jobname_app:latest`
 
 - Get Recommendations for a given user input:
-  1. `curl http://localhost:5000/input=<USER_INPUT>`
+  1. `curl http://localhost:5000/predict/?input=<USER_INPUT>`
   2. The application will return a list of recommendations for autocompletions sorted by relevance
 
 ## Improvements
